@@ -1,0 +1,6 @@
+{
+    "no": "Không",
+    "yes": "Có",
+    "(and :count more error)": "(và :count lỗi khác)",
+    "(and :count more errors)": "(và :count lỗi khác)"
+}
